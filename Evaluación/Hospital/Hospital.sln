@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Hospital\Consola.csproj", "{107CC677-179D-467B-B797-0A7C4D0DA8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeClases", "BibliotecaDeClases\BibliotecaDeClases.csproj", "{89185F27-C4B4-4F71-8144-1B9DD2BF124E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107CC677-179D-467B-B797-0A7C4D0DA8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107CC677-179D-467B-B797-0A7C4D0DA8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107CC677-179D-467B-B797-0A7C4D0DA8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107CC677-179D-467B-B797-0A7C4D0DA8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89185F27-C4B4-4F71-8144-1B9DD2BF124E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89185F27-C4B4-4F71-8144-1B9DD2BF124E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89185F27-C4B4-4F71-8144-1B9DD2BF124E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89185F27-C4B4-4F71-8144-1B9DD2BF124E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F697E6-9D92-4880-80A8-0F531BC96262}
+	EndGlobalSection
+EndGlobal
